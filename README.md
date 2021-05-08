@@ -17,7 +17,7 @@ Ran a command to drop any duplicates in the “id” column.
 
 Removed columns “endYear” and “isAdult”.
 
-Renamed columns so that all column headers were in lowercase.
+Renamed columns so that all column headers were in lowercase and with shorter names.
 
 Set “id” column as dataframe index.
 
