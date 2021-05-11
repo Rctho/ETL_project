@@ -7,6 +7,13 @@ Data Sets: IMDB Title Basics and IMDB Title Ratings
 Our group used two publicly available datasets on IMDB titles and their ratings (which can be found at https://www.kaggle.com/komalkhetlani/imdb-dataset ). Our datasets were in the form of .csv files, which we loaded into Jupyter Notebook using Pandas.
 
 # TRANSFORM:
+
+In postgreSQL:
+
+Created two empty tables with desired column headings and column data types. 
+
+In Jupyter Lab (Python):
+
 Reviewed the files and transformed them into data frames.
 
 Identified the placeholder for null values (“//N”), replaced them with NaN, and then replaced null values with 0.
