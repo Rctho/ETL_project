@@ -12,7 +12,11 @@ Our group used two publicly available datasets on IMDB titles and their ratings 
 
 In postgreSQL:
 
+Created an IMDB_db database.
+
 Created two empty tables with desired column headings and column data types. 
+
+Assigned "id"/"tconst" column as Primary Key.
 
 In Jupyter Lab (Python):
 
@@ -37,7 +41,7 @@ Created an engine.
 
 Used to_sql command to send to postgreSQL.
 
-Reviewed tables in postgreSQL database.
+Reviewed tables in postgreSQL database by querying tables.
 
 Reviewed tables in JupyterLab.
 
