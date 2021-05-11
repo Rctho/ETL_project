@@ -1,6 +1,8 @@
 # ETL Project Report
 Project Members: Kiril "Kiko" Ivanov, Eugene Xu, and Rachel Thorpe. 
-Data Sets: IMDB Title Basics and IMDB Title Ratings
+Data Sets: IMDB Title Basics and IMDB Title Ratings.
+
+These data sets can be used to combine movie reatings with additional information about the movie's title and release date. This could be usedful in comparing ratings for different point in time and for comparing ratings of different films.
 
 # EXTRACT:
 
