@@ -46,3 +46,5 @@ Reviewed tables in postgreSQL database by querying tables.
 Reviewed tables in JupyterLab.
 
 Joined tables on the “id” column.
+
+We presented our project in the class
